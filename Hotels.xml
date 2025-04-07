@@ -2,10 +2,10 @@
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="hotels.xsd">
 
-  <Hotel rating="4.5">
+  <Hotel Rating="4.5">
     <Name>The Plaza Hotel</Name>
     <Phone>212-759-3000</Phone>
-    <Address nearestAirport="JFK">
+    <Address NearestAirport="JFK">
       <Number>768</Number>
       <Street>5th Avenue</Street>
       <City>New York</City>
@@ -14,11 +14,11 @@
     </Address>
   </Hotel>
 
-  <Hotel rating="4.7">
+  <Hotel Rating="4.7">
     <Name>Hotel del Coronado</Name>
     <Phone>619-435-6611</Phone>
     <Phone>800-468-3533</Phone>
-    <Address nearestAirport="SAN">
+    <Address NearestAirport="SAN">
       <Number>1500</Number>
       <Street>Orange Ave</Street>
       <City>Coronado</City>
@@ -30,7 +30,7 @@
   <Hotel>
     <Name>Inn at the Market</Name>
     <Phone>206-443-3600</Phone>
-    <Address nearestAirport="SEA">
+    <Address NearestAirport="SEA">
       <Number>86</Number>
       <Street>Pike Street</Street>
       <City>Seattle</City>
@@ -39,10 +39,10 @@
     </Address>
   </Hotel>
 
-  <Hotel rating="4.9">
+  <Hotel Rating="4.9">
     <Name>Four Seasons Hotel Chicago</Name>
     <Phone>312-280-8800</Phone>
-    <Address nearestAirport="ORD">
+    <Address NearestAirport="ORD">
       <Number>120</Number>
       <Street>East Delaware Place</Street>
       <City>Chicago</City>
@@ -54,7 +54,7 @@
   <Hotel>
     <Name>The Broadmoor</Name>
     <Phone>719-577-5775</Phone>
-    <Address nearestAirport="COS">
+    <Address NearestAirport="COS">
       <Number>1</Number>
       <Street>Lake Ave</Street>
       <City>Colorado Springs</City>
@@ -63,10 +63,10 @@
     </Address>
   </Hotel>
 
-  <Hotel rating="4.8">
+  <Hotel Rating="4.8">
     <Name>Mandarin Oriental Boston</Name>
     <Phone>617-535-8888</Phone>
-    <Address nearestAirport="BOS">
+    <Address NearestAirport="BOS">
       <Number>776</Number>
       <Street>Boylston St</Street>
       <City>Boston</City>
@@ -75,10 +75,10 @@
     </Address>
   </Hotel>
 
-  <Hotel rating="4.4">
+  <Hotel Rating="4.4">
     <Name>Fairmont San Francisco</Name>
     <Phone>415-772-5000</Phone>
-    <Address nearestAirport="SFO">
+    <Address NearestAirport="SFO">
       <Number>950</Number>
       <Street>Mason St</Street>
       <City>San Francisco</City>
@@ -90,7 +90,7 @@
   <Hotel>
     <Name>The Peabody Memphis</Name>
     <Phone>901-529-4000</Phone>
-    <Address nearestAirport="MEM">
+    <Address NearestAirport="MEM">
       <Number>149</Number>
       <Street>Union Ave</Street>
       <City>Memphis</City>
@@ -99,10 +99,10 @@
     </Address>
   </Hotel>
 
-  <Hotel rating="5.0">
+  <Hotel Rating="5.0">
     <Name>Waldorf Astoria Beverly Hills</Name>
     <Phone>310-860-6666</Phone>
-    <Address nearestAirport="LAX">
+    <Address NearestAirport="LAX">
       <Number>9850</Number>
       <Street>Wilshire Blvd</Street>
       <City>Beverly Hills</City>
@@ -114,7 +114,7 @@
   <Hotel>
     <Name>Hotel Emma</Name>
     <Phone>210-448-8300</Phone>
-    <Address nearestAirport="SAT">
+    <Address NearestAirport="SAT">
       <Number>136</Number>
       <Street>East Grayson St</Street>
       <City>San Antonio</City>
