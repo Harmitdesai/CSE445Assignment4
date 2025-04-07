@@ -5,7 +5,7 @@
   <Hotel Rating="4.5">
     <Name>The Plaza Hotel</Name>
     <Phone>212-759-3000</Phone>
-    <Address NearestAirport="JFK">
+    <Address NearstAirport="JFK">
       <Number>768</Number>
       <Street>5th Avenue</Street>
       <City>New York</City>
@@ -18,7 +18,7 @@
     <Name>Hotel del Coronado</Name>
     <Phone>619-435-6611</Phone>
     <Phone>800-468-3533</Phone>
-    <Address NearestAirport="SAN">
+    <Address NearstAirport="SAN">
       <Number>1500</Number>
       <Street>Orange Ave</Street>
       <City>Coronado</City>
@@ -30,7 +30,7 @@
   <Hotel>
     <Name>Inn at the Market</Name>
     <Phone>206-443-3600</Phone>
-    <Address NearestAirport="SEA">
+    <Address NearstAirport="SEA">
       <Number>86</Number>
       <Street>Pike Street</Street>
       <City>Seattle</City>
@@ -42,7 +42,7 @@
   <Hotel Rating="4.9">
     <Name>Four Seasons Hotel Chicago</Name>
     <Phone>312-280-8800</Phone>
-    <Address NearestAirport="ORD">
+    <Address NearstAirport="ORD">
       <Number>120</Number>
       <Street>East Delaware Place</Street>
       <City>Chicago</City>
@@ -54,7 +54,7 @@
   <Hotel>
     <Name>The Broadmoor</Name>
     <Phone>719-577-5775</Phone>
-    <Address NearestAirport="COS">
+    <Address NearstAirport="COS">
       <Number>1</Number>
       <Street>Lake Ave</Street>
       <City>Colorado Springs</City>
@@ -66,7 +66,7 @@
   <Hotel Rating="4.8">
     <Name>Mandarin Oriental Boston</Name>
     <Phone>617-535-8888</Phone>
-    <Address NearestAirport="BOS">
+    <Address NearstAirport="BOS">
       <Number>776</Number>
       <Street>Boylston St</Street>
       <City>Boston</City>
@@ -78,7 +78,7 @@
   <Hotel Rating="4.4">
     <Name>Fairmont San Francisco</Name>
     <Phone>415-772-5000</Phone>
-    <Address NearestAirport="SFO">
+    <Address NearstAirport="SFO">
       <Number>950</Number>
       <Street>Mason St</Street>
       <City>San Francisco</City>
@@ -90,7 +90,7 @@
   <Hotel>
     <Name>The Peabody Memphis</Name>
     <Phone>901-529-4000</Phone>
-    <Address NearestAirport="MEM">
+    <Address NearstAirport="MEM">
       <Number>149</Number>
       <Street>Union Ave</Street>
       <City>Memphis</City>
@@ -102,7 +102,7 @@
   <Hotel Rating="5.0">
     <Name>Waldorf Astoria Beverly Hills</Name>
     <Phone>310-860-6666</Phone>
-    <Address NearestAirport="LAX">
+    <Address NearstAirport="LAX">
       <Number>9850</Number>
       <Street>Wilshire Blvd</Street>
       <City>Beverly Hills</City>
@@ -114,12 +114,25 @@
   <Hotel>
     <Name>Hotel Emma</Name>
     <Phone>210-448-8300</Phone>
-    <Address NearestAirport="SAT">
+    <Address NearstAirport="SAT">
       <Number>136</Number>
       <Street>East Grayson St</Street>
       <City>San Antonio</City>
       <Zip>78215</Zip>
       <State>TX</State>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E.7th St</Street>
+      <City>Tempe</City>
+      <Zip>85281</Zip>
+      <State>AZ</State>
     </Address>
   </Hotel>
 
