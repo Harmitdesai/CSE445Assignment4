@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="hotels.xsd">
+
+  <hotel rating="4.5">
+    <name>The Plaza Hotel</name>
+    <phone>212-759-3000</phone>
+    <address nearestAirport="JFK">
+      <number>768</number>
+      <street>5th Avenue</street>
+      <city>New York</city>
+      <zip>10019</zip>
+      <state>NY</state>
+    </address>
+  </hotel>
+
+  <hotel rating="4.7">
+    <name>Hotel del Coronado</name>
+    <phone>619-435-6611</phone>
+    <phone>800-468-3533</phone>
+    <address nearestAirport="SAN">
+      <number>1500</number>
+      <street>Orange Ave</street>
+      <city>Coronado</city>
+      <zip>92118</zip>
+      <state>CA</state>
+    </address>
+  </hotel>
+
+  <hotel>
+    <name>Inn at the Market</name>
+    <phone>206-443-3600</phone>
+    <address nearestAirport="SEA">
+      <number>86</number>
+      <street>Pike Street</street>
+      <city>Seattle</city>
+      <zip>98101</zip>
+      <state>WA</state>
+    </address>
+  </hotel>
+
+  <hotel rating="4.9">
+    <name>Four Seasons Hotel Chicago</name>
+    <phone>312-280-8800</phone>
+    <address nearestAirport="ORD">
+      <number>120</number>
+      <street>East Delaware Place</street>
+      <city>Chicago</city>
+      <zip>60611</zip>
+      <state>IL</state>
+    </address>
+  </hotel>
+
+  <hotel>
+    <name>The Broadmoor</name>
+    <phone>719-577-5775</phone>
+    <address nearestAirport="COS">
+      <number>1</number>
+      <street>Lake Ave</street>
+      <city>Colorado Springs</city>
+      <zip>80906</zip>
+      <state>CO</state>
+    </address>
+  </hotel>
+
+  <hotel rating="4.8">
+    <name>Mandarin Oriental Boston</name>
+    <phone>617-535-8888</phone>
+    <address nearestAirport="BOS">
+      <number>776</number>
+      <street>Boylston St</street>
+      <city>Boston</city>
+      <zip>02199</zip>
+      <state>MA</state>
+    </address>
+  </hotel>
+
+  <hotel rating="4.4">
+    <name>Fairmont San Francisco</name>
+    <phone>415-772-5000</phone>
+    <address nearestAirport="SFO">
+      <number>950</number>
+      <street>Mason St</street>
+      <city>San Francisco</city>
+      <zip>94108</zip>
+      <state>CA</state>
+    </address>
+  </hotel>
+
+  <hotel>
+    <name>The Peabody Memphis</name>
+    <phone>901-529-4000</phone>
+    <address nearestAirport="MEM">
+      <number>149</number>
+      <street>Union Ave</street>
+      <city>Memphis</city>
+      <zip>38103</zip>
+      <state>TN</state>
+    </address>
+  </hotel>
+
+  <hotel rating="5.0">
+    <name>Waldorf Astoria Beverly Hills</name>
+    <phone>310-860-6666</phone>
+    <address nearestAirport="LAX">
+      <number>9850</number>
+      <street>Wilshire Blvd</street>
+      <city>Beverly Hills</city>
+      <zip>90210</zip>
+      <state>CA</state>
+    </address>
+  </hotel>
+
+  <hotel>
+    <name>Hotel Emma</name>
+    <phone>210-448-8300</phone>
+    <address nearestAirport="SAT">
+      <number>136</number>
+      <street>East Grayson St</street>
+      <city>San Antonio</city>
+      <zip>78215</zip>
+      <state>TX</state>
+    </address>
+  </hotel>
+
+</hotels>
